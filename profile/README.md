@@ -27,6 +27,8 @@ Due Feb 2, 2025, 16:59 UTC
 
 Check the Homework/Classwork grading at [http://hw.let.rocks/](http://hw.let.rocks/).
 
+<br>
+
 # UTC Time
 To convert UTC to Thailand time, you simply add 7 hours to the UTC time.
 
