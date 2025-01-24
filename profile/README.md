@@ -29,5 +29,5 @@ Due Feb 2, 2025, 16:59 UTC
 To convert UTC to Thailand time, you simply add 7 hours to the UTC time.
 
 Example:
-	•	UTC time: 1:00 PM
-	•	Thailand time (UTC +7): 8:00 PM
+	•	UTC time: 16:59 PM
+	•	Thailand time (UTC +7): 23:59 PM
