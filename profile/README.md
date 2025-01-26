@@ -25,7 +25,14 @@ HW4 [https://classroom.github.com/a/g7pWKZUE](https://classroom.github.com/a/g7p
 Due Feb 2, 2025, 16:59 UTC
 
 
+# Check the Homework/Classwork Grading
+Your task is to implement code based on the assignment questions/instructions. If anything is unclear, you must ask for clarification.
+Do not assume that simply checking the homework and saying “OK” guarantees a correct answer.
+
 Check the Homework/Classwork grading at [http://hw.let.rocks/](http://hw.let.rocks/).
+The provided link is only for reference to the final result (and for discussion with me if you strongly believe you are correct).
+
+The test cases here are designed to verify your work and align with the assignment questions. They also serve as hidden test cases that you are not meant to see.
 
 <br>
 
