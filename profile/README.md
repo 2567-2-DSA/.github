@@ -24,6 +24,11 @@ Due Feb 2, 2025, 16:59 UTC
 HW4 [https://classroom.github.com/a/g7pWKZUE](https://classroom.github.com/a/g7pWKZUE)
 Due Feb 2, 2025, 16:59 UTC
 
+HW5 [https://classroom.github.com/a/ZAJ44Ecg](https://classroom.github.com/a/ZAJ44Ecg)
+Due Feb 9, 2025, 16:59 UTC
+
+
+
 <br>
 
 # Check the Homework/Classwork Grading
