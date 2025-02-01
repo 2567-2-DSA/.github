@@ -23,7 +23,7 @@ Due Feb 2, 2025, 16:59 UTC
 
 HW5 [https://classroom.github.com/a/ZAJ44Ecg](https://classroom.github.com/a/ZAJ44Ecg)
 Due Feb 9, 2025, 16:59 UTC
-
+<br>For HW5, you are required to study and submit the code we covered in class (`ex04.c`). Submit it as `homework.c`, replacing the existing `homework.c` in the repository.
 
 
 <br>
