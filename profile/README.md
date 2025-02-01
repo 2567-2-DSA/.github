@@ -17,6 +17,8 @@ Due Jan 20, 2025, 16:59 UTC
 
 HW3 [https://classroom.github.com/a/mghlUlFz](https://classroom.github.com/a/mghlUlFz)
 Due Feb 2, 2025, 16:59 UTC
+<br>The grading allows a runtime of only 20 seconds (on the grading machine). If it exceeds the timeout (> 20 seconds), it will result in a RunScript failure. 
+<br>The challenge in HW3 is to optimize it for faster running time.
 
 HW4 [https://classroom.github.com/a/g7pWKZUE](https://classroom.github.com/a/g7pWKZUE)
 Due Feb 2, 2025, 16:59 UTC
