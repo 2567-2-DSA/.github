@@ -26,7 +26,7 @@ Due Feb 2, 2025, 16:59 UTC
 HW5 [https://classroom.github.com/a/ZAJ44Ecg](https://classroom.github.com/a/ZAJ44Ecg)
 Due Feb 9, 2025, 16:59 UTC
 <br>For HW5, you are required to study and submit the code we covered in class (`ex04.c`). Submit it as `homework.c`, replacing the existing `homework.c` in the repository.
-<br>It also needs to be modified quickly (within < 15 seconds) in order to pass the checking.
+<br>It also needs to be modified quickly (within < 15 seconds) in order to pass the checking. With the provided ex04.c code, you need to use gcc to compile it and test the program.
 
 
 <br>
